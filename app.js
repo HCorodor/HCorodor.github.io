@@ -1,3 +1,1 @@
-function alertButton() {
-    alert("Hello world!")
-}
+console.log("Welcome to Ruben Verheul's Game Dev Portfolio!");

@@ -1,1 +1,0 @@
-console.log("Welcome to Ruben Verheul's Game Dev Portfolio!");
